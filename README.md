@@ -69,25 +69,28 @@ This workflow exemplifies essential Data Analysis skills, enabling informed deci
 
 ## Summary of Key Results
 
-<!-- <div align="center">
+<div align="center">
   <h4>Dashboard</h4>
-  <img src="assets/Dashboard_OlympicDataset.png" alt="Dashboard - Olympics Dataset">
+  <img src="assets/Dashboard_Coffee_Sales.png" alt="Dashboard - Coffee Sales">
   
   <h4>Working Sheet</h4>
-  <img src="assets/WorkingSheet_OlympicsDataset.png" alt="Working Sheet - Olympics Dataset">
+  <img src="assets/WorkingSheet_Coffee_Sales.png" alt="Working Sheet - Coffee Sales">
   
-  <h4>Athlete vs. Team Participation Count</h4>
-  <img src="assets/PivotTable_CountType_AthleteVsTeam.png" alt="Pivot Table - Athlete vs. Team Participation Count">
+  <h4>Total Sales</h4>
+  <img src="assets/TotalSales_Coffee_Sales.png" alt="Line Chart - Total Sales - Coffee Sales">
   
-  <h4>Discipline Distribution with Count and Percentage</h4>
-  <img src="assets/PivotTable_DisciplineDistributionCount_Percentage.png" alt="Pivot Table - Discipline Distribution with Count and Percentage">
+  <h4>Timeline</h4>
+  <img src="assets/Timeline_Coffee_Sales.png" alt="Timeline - Coffee Sales">
   
-  <h4>Olympic Medal Count by Country (Beijing 2022 & Tokyo 2020) with Game Filter</h4>
-  <img src="assets/PivotTable_OlympicMedalCountByCountry_GameFilter.png" alt="Pivot Table - Olympic Medal Count by Country (Beijing 2022 & Tokyo 2020) with Game Filter">
+  <h4>Roast Type, Size & Loyalty Card</h4>
+  <img src="assets/RoastType_Size_LoyaltyCard_Coffee_Sales.png" alt="Roast Type, Size & Loyalty Card - Coffee Sales">
   
-  <h4>Stacked Chart Medal Count by Country (Gold, Silver, Bronze)</h4>
-  <img src="assets/PivotTable_StackedChartMedalCount_Country.png" alt="Pivot Table - Stacked Chart Medal Count by Country (Gold, Silver, Bronze)">
-</div> -->
+  <h4>Sales By Country</h4>
+  <img src="assets/SalesByCountry_Coffee_Sales.png" alt="Pivot Table and Bar Chart - Sales By Country">
+
+  <h4>Top 5 Customers</h4>
+  <img src="assets/Top5Customers_Coffee_Sales.png" alt="Pivot Table and Bar Chart - Top 5 Customers">
+</div>
 
 ## Lessons Learned and Recommendation
 
